@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Voce pode visualizar o projeto pronto projeto através [DESSE LINK](https://github.com/crisfeitosa/formulario-de-convite)
+Voce pode visualizar o projeto pronto projeto através [DESSE LINK](https://formulario-de-convite.netlify.app)
 O Projeto Formulário de Convite é um agregador de ensino na Rocketseat para avançar o conhecimento em HTML e CSS. Nesse modulo foi realizado desafio para elaboração de Formulário de Convite aplicando os conhecimento em HTML e CSS .
 
 ## 🔖 Layout
