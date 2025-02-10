@@ -1,0 +1,22 @@
+.button-primary {
+  background-color: var(--brand-dark);
+  padding: 13px 20px;
+  font: var(--body-md);
+  font-weight: 600;
+  gap: 0.75rem;
+
+  img {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+
+  &:hover {
+    background-color: var(--brand-mid);
+
+  }
+}
+
+#ticket-button {
+  float: right;
+}
+
